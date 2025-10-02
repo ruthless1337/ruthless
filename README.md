@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/HTML5-FF6F61?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS3-2CA8E0?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="[https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black]" alt="TypeScript"> -- learning
 </div>
 
 ---
